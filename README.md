@@ -1,17 +1,11 @@
+# From Posts to Predictions: Leveraging Reddit Sentiments for Bitcoin Price Analysis
 
----title: "From Posts to Predictions: Leveraging Reddit Sentiments for Bitcoin Price Analysis"
-authors:
-  - name: Randall Bevan
-    email: rbevan6@gatech.edu
-  - name: Jessica Ly
-    email: jly31@gatech.edu
-  - name: Henry Zhang
-    email: hzhang902@gatech.edu
-  - name: Priyanshu Mehta
-    email: pmehta305@gatech.edu
-  - name: Srisankaet Cheemalamarri
-    email: scheemal3@gatech.edu
----
+**Authors:**
+- **Randall Bevan** - rbevan6@gatech.edu
+- **Jessica Ly** - jly31@gatech.edu
+- **Henry Zhang** - hzhang902@gatech.edu
+- **Priyanshu Mehta** - pmehta305@gatech.edu
+- **Srisankaet Cheemalamarri** - scheemal3@gatech.edu
 
 ## Abstract
 
