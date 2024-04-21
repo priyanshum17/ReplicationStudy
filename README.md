@@ -1,8 +1,16 @@
-# Replication Study
----
-title: "From Posts to Predictions: Leveraging Reddit Sentiments for Bitcoin Price Analysis"
-author: Randall Bevan, Jessica Ly, Henry Zhang, Priyanshu Mehta, Srisankaet Cheemalamarri
-email: rbevan6@gatech.edu, jly31@gatech.edu, hzhang902@gatech.edu, pmehta305@gatech.edu, scheemal3@gatech.edu
+
+---title: "From Posts to Predictions: Leveraging Reddit Sentiments for Bitcoin Price Analysis"
+authors:
+  - name: Randall Bevan
+    email: rbevan6@gatech.edu
+  - name: Jessica Ly
+    email: jly31@gatech.edu
+  - name: Henry Zhang
+    email: hzhang902@gatech.edu
+  - name: Priyanshu Mehta
+    email: pmehta305@gatech.edu
+  - name: Srisankaet Cheemalamarri
+    email: scheemal3@gatech.edu
 ---
 
 ## Abstract
@@ -53,5 +61,13 @@ In conclusion, our study provides a nuanced understanding of the intricate inter
 
 ## References
 
-1. Pavlo Seroyizhko, Zhanel Zhexenova, Muhammad Zohaib Shafiq, Fabio Merizzi, Andrea Galassi, and Federico Ruggeri. 2022. A Sentiment and Emotion Annotated Dataset for Bitcoin Price Forecasting Based on Reddit Posts. In Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP), pages 203–210, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
-2. Other references...
+1. Pavlo Seroyizhko, Zhanel Zhexenova, Muhammad Zohaib Shafiq, Fabio Merizzi, Andrea Galassi, and Federico Ruggeri. 2022. "A Sentiment and Emotion Annotated Dataset for Bitcoin Price Forecasting Based on Reddit Posts." In Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP), pages 203–210, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
+2. Esuli, A., & Sebastiani, F. (2009). "Training data cleaning for text classification." In Conference on the Theory of Information Retrieval, pages 29-41. Springer Berlin Heidelberg.
+3. Antweiler, W., & Frank, M. Z. (2004). "Is all that talk just noise? The information content of internet stock message boards." The Journal of finance, 59(3), 1259-1294.
+4. Bollen, J., Mao, H., & Zeng, X. (2011). "Twitter mood predicts the stock market." Journal of computational science, 2(1), 1-8.
+5. Mai, F., Shan, Z., Bai, Q., Wang, X., & Chiang, R. H. (2018). "How does social media impact Bitcoin value? A test of the silent majority hypothesis." Journal of management information systems, 35(1), 19-52.
+6. Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805.
+7. Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). "Improving language understanding by generative pre-training."
+8. Hochreiter, S., & Schmidhuber, J. (1997). "Long short-term memory." Neural computation, 9(8), 1735-1780.
+9. Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078.
+10. Fischer, T., & Krauss, C. (2018). "Deep learning with long short-term memory networks for financial market predictions." European journal of operational research, 270(2), 654-669.
