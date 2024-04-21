@@ -26,23 +26,22 @@ In our replication study, we aim to reassess these findings using the dataset bu
 ## Graphical Analysis
 
 ### Bitcoin Price vs. Reddit Sentiment
-
-![Bitcoin Close Price vs. Comment Sentiment](path_to_image/randallgraph.png)
+![randallgraph](https://github.com/priyanshum17/ReplicationStudy/assets/70831431/c08e81a8-2e95-434b-b3c4-5d21d963f014)
 *Figure 1: Graphing of Bitcoin Close Price vs. Comment Sentiment*
 
-![Bitcoin Trading Volume vs. Comments Sentiment](path_to_image/volume_vs_sentiment.png)
+![volume vs sentiment](https://github.com/priyanshum17/ReplicationStudy/assets/70831431/ebba0ced-5d08-4e2c-8180-0537f8a0a2be)
 *Figure 2: Scatter Plot of Bitcoin Trading Volume vs. Comments Sentiment*
 
 ## Models
 
 ### LSTM-GRU Model
 
-![Training loss vs epochs for LSTM-GRU Model](path_to_image/newplot_9.png)
+<img width="358" alt="newplot (9)" src="https://github.com/priyanshum17/ReplicationStudy/assets/70831431/f0f801fb-1f87-4175-b834-3978081c7fba">
 *Figure 3: Training loss vs epochs for LSTM-GRU Model showing a large drop in training loss after a few epochs indicating possible over-fitting*
 
 ### Transformer Model
 
-![Graphs of the training loss (MSE) of the Transformer model](path_to_image/newplot_1_2.png)
+![newplot (8)](https://github.com/priyanshum17/ReplicationStudy/assets/70831431/dc265382-d29e-4bea-9aaf-9d054ef593b4)
 *Figure 4: Training loss graphs for the Transformer model, trained on different datasets*
 
 ## Data Collection
